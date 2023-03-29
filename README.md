@@ -2,7 +2,7 @@
 #### Web Development | Web Design |  Music Production
 ![Web Development | Web Design |  Music Production](https://pbs.twimg.com/profile_banners/2755554399/1641757730/1500x500)
 
-I'm from Rockville, Maryland and I build websites and apps. I enjoy learning about web technologies like Javascript, Python, Material UI, Bootstrap, React, and NodeJS. I also dabble in UI/UX design, graphic design and creative endeavors such as music production. [Portfolio website] (https://www.kedusm.com/)
+I'm from Rockville, Maryland and I build websites and apps. I enjoy learning about web technologies like Javascript, Python, Material UI, Bootstrap, React, and NodeJS. I also dabble in UI/UX design, graphic design and creative endeavors such as music production. ![Portfolio website](https://www.kedusm.com/)
 
 Skills: REACT / JS / HTML / CSS / NODEJS
 
