@@ -19,7 +19,7 @@ Skills: REACT / JS / HTML / CSS / NODEJS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kedusmeheretu)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kedusmeheretu&show_icons=true)  
+  
 
 ![GitHub metrics](https://metrics.lecoq.io/kedusmeheretu)  
 
